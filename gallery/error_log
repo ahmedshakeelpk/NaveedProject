@@ -1,0 +1,13 @@
+[10-Feb-2023 17:14:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method GateKeeper::isnotAllowed() in /home/tqsu5gglsaji/public_html/cloud.futureadvisorconsultant.com/vfm-admin/template/uploadarea.php:21
+Stack trace:
+#0 /home/tqsu5gglsaji/public_html/cloud.futureadvisorconsultant.com/index.php(68): include()
+#1 {main}
+  thrown in /home/tqsu5gglsaji/public_html/cloud.futureadvisorconsultant.com/vfm-admin/template/uploadarea.php on line 21
+[10-Feb-2023 17:14:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method GateKeeper::isnotAllowed() in /home/tqsu5gglsaji/public_html/cloud.futureadvisorconsultant.com/vfm-admin/template/uploadarea.php:21
+Stack trace:
+#0 /home/tqsu5gglsaji/public_html/cloud.futureadvisorconsultant.com/index.php(68): include()
+#1 {main}
+  thrown in /home/tqsu5gglsaji/public_html/cloud.futureadvisorconsultant.com/vfm-admin/template/uploadarea.php on line 21
+[10-Feb-2023 17:53:01 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/tqsu5gglsaji/public_html/cloud.futureadvisorconsultant.com/index.php on line 81
+[10-Feb-2023 17:53:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/tqsu5gglsaji/public_html/cloud.futureadvisorconsultant.com/index.php on line 81
+[10-Feb-2023 17:55:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/tqsu5gglsaji/public_html/cloud.futureadvisorconsultant.com/index.php on line 78
